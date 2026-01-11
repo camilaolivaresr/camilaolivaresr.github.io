@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div>
       <footer class="mx-auto " id="footer">
-        <span>© 2024 HandMade CamiDev </span>
+        <span>© 2024 HandMade CamiDev  </span>
         <ul>
           <li class="social-icons">
             <a
