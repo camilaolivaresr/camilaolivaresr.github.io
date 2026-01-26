@@ -130,6 +130,7 @@ const About = () => {
             </span> 
           </div>
         </div> */}
+     
         <div class="col-md-4 p-2 " >
           <div class="text-center h-100">
             <span class="fa-stack fa-5x">
