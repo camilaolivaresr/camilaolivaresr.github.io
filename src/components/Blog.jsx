@@ -27,7 +27,7 @@ const Blog = () => {
         <div class="col-md-4 p-2" >
           <div class="card h-100">
             <div class="card" >
-              <a href="https://stupendous-ironclad-164.notion.site/Hola-Soy-Ada-8b67fcd6445d4ec1b469b8c7869c09c8"  target="_blank">
+              <a href="https://stupendous-ironclad-164.notion.site/Hola-Soy-Ada-8b67fcd6445d4ec1b469b8c7869c09c8"  target="_blank" rel="noreferrer">
                 <img src={post.image} class="card-img-top" alt="..." />
                 </a>             
               <div class="card-body">

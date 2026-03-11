@@ -1,11 +1,11 @@
-import React, { useContext } from 'react'
+import { useContext } from 'react'
 import { DarkModeContext } from './DarkModeContext'
 import DarkMode from './DarkMode';
 import Home from './Home';
 import Blog from './Blog';
 import Portfolio from './Portfolio';
 import About from './About';
-import { NavLink, Route, Routes, BrowserRouter } from 'react-router-dom';
+import { NavLink, Route, Routes } from 'react-router-dom';
 import Footer from './Footer';
 
 function Page() {

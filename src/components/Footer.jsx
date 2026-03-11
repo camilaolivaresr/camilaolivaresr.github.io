@@ -13,6 +13,7 @@ const Footer = () => {
               href="https://es.react.dev/"
               role="button"
               target="_blank"
+              rel="noreferrer"
             ><i class="fa-footer fab fa-react"></i>
             </a>
           </li>
@@ -36,6 +37,7 @@ const Footer = () => {
               role="button"
               data-mdb-ripple-color="dark"
               target="_blank"
+              rel="noreferrer"
             ><i class="fa-footer fab fa-linkedin"></i>
             </a>
           </li>
@@ -47,6 +49,7 @@ const Footer = () => {
               role="button"
               data-mdb-ripple-color="dark"
               target="_blank"
+              rel="noreferrer"
             ><i class="fa-footer fab fa-github"></i>
             </a>
           </li>
